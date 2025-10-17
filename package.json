@@ -7,4 +7,8 @@
     "node-cache": "^5.1.2",
     "dotenv": "^16.4.0"
   }
+  "scripts": {
+  "start": "node index.js",
+  "vercel-build": "echo \"No build needed\""
+}
 }
